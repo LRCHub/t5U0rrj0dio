@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ハローセカイ",
+  "base_artist": "DECO*27",
+  "createdAt": "2025-12-24T04:49:04.507443Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハローセカイ",
+      "artist": "halca",
+      "has_synced": false,
+      "path": "select/01_ハローセカイ_halca.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ハローセカイ",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/02_ハローセカイ_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ハローセカイ / バーチャル・シンガーver.",
+      "artist": "Hatsune Miku",
+      "has_synced": true,
+      "path": "select/03_ハローセカイ___バーチャル・シンガーver._Hatsune_Miku.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハローセカイ",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/pl_01_ハローセカイ_DECO_27.txt"
+    }
+  ]
+}
